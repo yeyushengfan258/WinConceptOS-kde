@@ -13,7 +13,7 @@
    viewBox="0 0 22 22"
    id="svg1559"
    sodipodi:docname="network.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata1563">
     <rdf:RDF>
@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="971"
+     inkscape:window-height="1010"
      id="namedview1561"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="-19.833243"
-     inkscape:cy="-9.1736313"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="36.188948"
+     inkscape:cy="32.248475"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1559"
      showguides="true"
@@ -52,7 +52,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid2370" />
@@ -3682,9 +3683,9 @@
          id="rect1895"
          style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.79056942;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.61237246;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:0.790569;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1897"
-         width="6"
+         width="10"
          height="1"
          x="35"
          y="-139"
